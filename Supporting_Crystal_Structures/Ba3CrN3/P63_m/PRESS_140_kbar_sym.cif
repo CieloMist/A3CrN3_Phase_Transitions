@@ -1,0 +1,51 @@
+# CIF file created by FINDSYM, version 7.1.3
+
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_cell_length_a     7.6147099000
+_cell_length_b     5.1945372000
+_cell_length_c     7.6147159000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta   119.9999739000
+_cell_angle_gamma  90.0000000000
+_cell_volume       260.8462958766
+
+_symmetry_space_group_name_H-M "P 1 21/m 1"
+_symmetry_Int_Tables_number 11
+_space_group.reference_setting '011:-P 2yb'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z
+3 -x,-y,-z
+4 x,-y+1/2,z
+
+loop_
+_atom_type_symbol
+Ba    
+Cr    
+N     
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_fract_symmform
+Ba1 Ba   2 e  0.6451778050  0.2500000000  0.7432210850  1.0000000000 Dx,0,Dz 
+Ba2 Ba   2 e  0.2567789150  0.2500000000 -0.0980433000  1.0000000000 Dx,0,Dz 
+Ba3 Ba   2 e  0.0980433000  0.2500000000  0.3548221950  1.0000000000 Dx,0,Dz 
+Cr1 Cr   2 e  0.6666666700  0.2500000000  0.3333333300  1.0000000000 Dx,0,Dz 
+N1  N    2 e  0.4390072800  0.2500000000  0.3220925650  1.0000000000 Dx,0,Dz 
+N2  N    2 e  0.6779074350  0.2500000000  0.1169147450  1.0000000000 Dx,0,Dz 
+N3  N    2 e  0.8830852550  0.2500000000  0.5609927200  1.0000000000 Dx,0,Dz 
+
+# end of cif

@@ -1,0 +1,2 @@
+Relaxed crystal structures for Ba3CrN3 and Sr3CrN3 in space groups Cmcm and P6_3/m are contained in each folder.
+The files are labelled according to VASP's pressure convention (kbar), so Sr3CrN3 @ 10 GPa is in Sr3CrN3/Cmcm/PRESS_100_kbar_sym.cif.
